@@ -1,0 +1,23 @@
+/* Navbar.css */
+.navbar-container {
+    margin-left: -1rem;
+}
+  
+.nav-rout-link {
+    font-size: 1rem;
+    transition: color 0.3s;
+}
+  
+.nav-rout-link:hover {
+    color: #007bff;
+}
+  
+.nav-rout-link.fw-bolder {
+    color: #007bff !important;
+}
+  
+.fa-cart-shopping,
+.fa-user {
+    font-size: 1.5rem;
+}
+  
